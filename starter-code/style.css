@@ -1,0 +1,234 @@
+    h1{
+      padding-right: 10px;
+      margin-top : 0px;
+      width: auto;
+      color: rgb(255,255,255);
+  
+    }
+    h2 {
+      color: rgba(255,255,255);
+    }
+    h3 {
+      padding: 10px 20px;
+      color: rgba(255,255,255);
+  
+    }
+  
+  nav {
+    background-color: red;
+    color: rgb(158, 125, 125);
+    padding-top: 1px;
+    height: auto;
+    width: auto;
+    overflow: hidden;
+  text-align: center;  
+  }
+    nav a {
+      color: rgba(255,255,255);
+      text-decoration: none;
+      text-align: center;
+    }
+    nav li {
+      display: inline-block;
+      padding-right: 10px;
+      height: 10px;
+      color: rgb(255,255,255);
+      text-decoration: none;
+      text-align: center;
+      }
+    nav ul {
+      margin: 0;
+    }
+  
+  
+  .tl {
+    float: left;
+    padding: 5px 0;
+    overflow: hidden;
+  }
+  
+  .tr { 
+    float: right;
+    padding: 5px 0;
+    overflow: hidden;
+  }
+  
+  header {
+    display: fixed;
+    background : rgb(32, 101, 136);
+    background-image: url('images/city-scape.svg');
+    font : white;
+    overflow: hidden;
+  }
+  
+    header ul {
+      display: inline-block;
+      float: right;
+      padding: 5px;
+      overflow: hidden;
+      width: auto;
+      margin: 2px;
+      }
+
+    header li {
+      display: inline;
+      padding: 2px 0 0 0;
+      color: rgb(255,255,255);
+      text-decoration: none;
+      text-align: center;
+      width: 50px;
+      }
+
+    header a {
+      text-decoration: none;
+      color: white;
+      }
+  
+  .npm-logo {
+    width: auto;
+    height: 20px;
+    padding-top : 10px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .bear-logo {
+    width: 30px;
+  }
+  
+  .btn-style {
+    background : rgb(240, 146, 51);
+    color: rgb(255,255,255);
+    padding-top: 10px;
+    text-decoration: none;
+    border-radius: 15px;
+    border-width: 2px;
+    padding: 5px 20px;
+    box-sizing: content-box;
+    text-align: center;
+    margin: 5px;
+    box-shadow: 2px 2px 10px 0 rgb(32, 109, 148)
+  }
+  
+  .search-bar {
+   width: 60%;
+   height: 30px;
+  }
+  
+  .search-style {
+    width: 95%;
+    background: rgb(31, 82, 111);
+    border: 1px solid;
+      border-color: rgb(255, 255, 255);
+      border-radius: 3px;
+   color: lightslategray;
+   padding-left: 5px;
+  }
+  
+  .header-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 205px;
+    padding: 20px;
+    color : rgb(255,255,255);
+    height: 350px;
+    width: 40%;
+    text-align: left;
+    overflow: hidden;
+  }
+  
+  .text {
+    height: 100px;
+    width: 300px;
+    color : rgb(255,255,255);
+  
+  }
+  #section1 {
+    color : rgb(255,255,255);
+    background: rgb(39, 53, 71);
+    display: flex;
+      align-items: center;
+      justify-content: center;
+    padding: 20px;
+    overflow: hidden;
+  }
+  
+    #section1 ul {
+      padding: 20px;
+    }
+    #section1 li {
+      color : rgba(255,255,255,0.8);
+      font-size : small;
+      padding: 2px;
+    }
+  
+    #section1 a {
+      color : rgba(255,255,255,0.8);
+      text-decoration: none;
+      
+    }
+  
+    #section1 h2 {
+      height: 50px;
+      width: 250px; 
+    }
+  
+    .section1-box { 
+      margin: 20px auto;
+      padding: 30px;
+      margin: 10px;
+      color : rgb(255,255,255);
+      height: 300px;
+      width: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  
+    }
+  
+    .section1-btn {
+      background : rgb(203, 56, 55);
+      color: rgb(255,255,255);
+      padding-top: 15px;
+      text-decoration: none;
+      border-radius: 10px;
+      border-width: 3px;
+      padding: 5px 20px;
+      box-sizing: content-box;
+      text-align: center;
+      margin: 7px;
+      overflow: hidden;
+    }
+  
+    .collaboration {
+      width: 20%;
+      height: auto;
+      padding: 30px;
+      margin-right: 100px;
+    }
+  
+  #section2 {
+    background-image: url("images/forklift.svg");
+    background-size: cover;
+    height: 400px;
+    overflow: hidden;
+  }
+  
+  .section2-position {
+    margin-left:  20%;
+    padding: 20px;
+  }
+  
+  .section2-btn {
+      background : rgb(49, 68, 88);
+      color: rgb(255,255,255);
+      padding-top: 1px;
+      text-decoration: none;
+      border-radius: 15px;
+      border-width: 2px;
+      padding: 5px 20px;
+      box-sizing: content-box;
+      text-align: center;
+      margin: 5px;
+      box-shadow: 2px 2px 10px 0 rgb(32, 109, 148)
+    }
